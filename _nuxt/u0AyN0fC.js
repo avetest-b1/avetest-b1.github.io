@@ -1,0 +1,1 @@
+import{jl as i,vn as o}from"./BMcp0Y-c.js";var t=i("position",()=>{const i=o({prefix:"position",defaultFixedWidth:300});return{...i,visible:i.visible,positionBoundingRect:i.boundingRect}});export{t};

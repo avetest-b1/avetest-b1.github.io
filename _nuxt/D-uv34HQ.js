@@ -1,0 +1,1 @@
+import{jl as e,vn as i}from"./BMcp0Y-c.js";var n=e("favToken",()=>{const e=i({prefix:"favToken",defaultFixedWidth:300});return{...e,visible:e.visible,favTokenBoundingRect:e.boundingRect}});export{n as t};
