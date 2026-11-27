@@ -1,0 +1,1 @@
+import{y as i}from"./Be-_GdjE.js";import{t as o}from"./Dqd-oAbP.js";var t=i("position",()=>{const i=o({prefix:"position",defaultFixedWidth:300});return{...i,visible:i.visible,positionBoundingRect:i.boundingRect}});export{t};
